@@ -1,0 +1,17 @@
+# Changelog
+
+## Version 1.0 – 2026-08-11
+- Created six HTML5 pages.
+- Added semantic header, nav, main, section, article and footer elements.
+- Added a consistent navigation menu across all pages.
+- Added responsive CSS styling.
+- Added detailed business, service and target-audience content.
+- Added enquiry form with labels and validation attributes.
+- Added README documentation.
+- Added this development changelog.
+
+## Recommended next development
+- Connect the enquiry form to a secure back-end/email service.
+- Add approved business contact details.
+- Add real destination photographs and image alternative text.
+- Test all links and form behaviour before final submission.
